@@ -15,4 +15,4 @@ Evaluate model performance using loss curves, accuracy metrics, and confusion ma
 Visualize categorical predictors against stroke outcomes
 
 ## Model Evaluation:
-Accuracy - 95.2%
+Test accuracy - 95.2%
